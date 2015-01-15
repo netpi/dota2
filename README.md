@@ -40,9 +40,9 @@ dota2api.getMatchHistory(config,function(err,data){
 
 ```
 
-### about api
+## About Api
 
-#### getMatchHistory
+#### getMatchHistory()
 
 sed to get a list of matches played.
 
@@ -71,7 +71,7 @@ var config {
   })
 
 ```
-#### getMatchDetails
+#### getMatchDetails()
 
 
 Used to get detailed information about a specified match.
@@ -122,7 +122,7 @@ var config={
     }
   })
 ```
-#### getLeagueListing
+#### getLeagueListing()
 
 Used to get a list of the tournament leagues that are available for viewing in the client (i.e. you can buy a ticket to them).
 Intended for use in conjunction with GetLiveLeagueGames.
@@ -148,7 +148,7 @@ var config={
   })
 ```
 
-#### getLiveLeagueGames
+#### getLiveLeagueGames()
 
 Used to get a list of the tournament leagues that are available for viewing in the client (i.e. you can buy a ticket to them).
 Intended for use in conjunction with GetLiveLeagueGames.
@@ -176,7 +176,7 @@ Common options only (see above) - Note that if no language is specified, the API
     }
   })
 ```
-#### getMatchHistoryBySequenceNum
+#### getMatchHistoryBySequenceNum()
 
 Used to get the matches in the order which they were recorded (i.e. sorted ascending by match_seq_num).
 This means that the first match on the first page of results returned by the call will be the very first public mm-match recorded in the stats.
