@@ -195,3 +195,11 @@ dota2api.getMatchHistoryBySequenceNum(config, function(err, data) {
     }
   })
 ```
+## TEST
+
+```sh
+make test
+```
+## License
+
+The MIT license
