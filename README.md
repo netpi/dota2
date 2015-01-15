@@ -92,7 +92,7 @@ var config={
     }
   })
 ```
-#### getHeroes
+#### getHeroes()
 
 Used to get an UP-TO-DATE list of heroes.
 
