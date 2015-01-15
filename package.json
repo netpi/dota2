@@ -1,0 +1,30 @@
+{
+  "name": "dota",
+  "version": "0.0.2",
+  "description": "a plugin for dota2",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netpi/dota2"
+  },
+  "keywords": [
+    "dota2"
+  ],
+  "author": "Netpi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netpi/dota2/issues"
+  },
+  "homepage": "https://github.com/netpi/dota2",
+  "dependencies": {
+    "urllib": "^2.2.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "mocha": "^2.0.1",
+    "should": "^4.1.0"
+  }
+}
