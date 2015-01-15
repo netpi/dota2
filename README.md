@@ -1,3 +1,5 @@
+
+![](http://bnetpi.qiniudn.com/dota2/bg.jpg)
 # Dota2
 > a node-plugin for dota2 ;
 
