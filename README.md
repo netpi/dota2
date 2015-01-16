@@ -19,7 +19,6 @@ var Dota2Api = require('dota').dota2api;
 var key = 'your key'; //Your personal API key (from above)
 var language = 'zh_CN';// The language to retrieve results in (default is en_us) (see http://en.wikipedia.org/wiki/ISO_639-1 for the language codes (first two characters) and http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes for the country codes (last two characters))
 var format = 'JSON' The format to retrieve results in ("JSON" or "XML")
-var doa2api = new Dota2Api('your key','zh_CN','JSON');
 
 var dota2api = new Dota2Api(key,language,format)
 
