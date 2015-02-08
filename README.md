@@ -50,7 +50,7 @@ sed to get a list of matches played.
 var config {
   hero_id: < id > , // Search for matches with a specific hero being played (hero ID, not name, see HEROES below)
   game_mode: < mode > , // Search for matches of a given mode (see below)
-  skill: < skill > , // 0 for any, 1 for normal, 2 for high, 3 for very high skill (default is 0)
+  skill: < skill > , // 0 for fany, 1 for normal, 2 for high, 3 for very high skill (default is 0)
   min_players: < count > , // the minimum number of players required in the match
   account_id: < id > , // Search for all matches for the given user (32-bit or 64-bit steam ID)
   league_id: < id > , // matches for a particular league
