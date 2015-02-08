@@ -1,6 +1,8 @@
 
 ![](http://bnetpi.qiniudn.com/dota2/bg.jpg)
 # Dota2
+[![](https://travis-ci.org/netpi/dota2.svg?branch=master)](https://travis-ci.org/netpi/dota2)
+
 > a node-plugin for dota2 ;
 
 ## GETTING A KEY
