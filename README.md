@@ -3,7 +3,7 @@
 # Dota2
 [![](https://travis-ci.org/netpi/dota2.svg?branch=master)](https://travis-ci.org/netpi/dota2)
 
-> a node-plugin for dota2 ;
+> a node-plugin for dota2  ;
 
 ## GETTING A KEY
 First off get a dev key from here, [http://steamcommunity.com/dev/apikey](http://steamcommunity.com/dev/apikey) and login with your Steam account and you will get unique key.
