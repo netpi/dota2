@@ -1,6 +1,6 @@
 {
   "name": "dota",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a plugin for dota2",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/netpi/dota2"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "dota2"
   ],
